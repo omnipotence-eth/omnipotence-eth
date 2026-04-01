@@ -53,17 +53,6 @@ Designing and deploying production-grade LLM systems — end-to-end from reasoni
 
 ---
 
-## Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=omnipotence-eth&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omnipotence-eth&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
-
-</div>
-
----
-
 <div align="center">
 <sub>DFW</sub>
 </div>
